@@ -12,10 +12,10 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Payam S. Shabestari"
-description              : &description "My current research focuses on the use of optically-pumped magnetometers (OPMs) for epilepsy. I use signal processing, machine learning, optimization, and 3D modeling for my research."
+description              : &description "PhD student at Zurich neuroscience center (ZNZ). I'm interested in signal processing, computational neuroscience and neurofeedback."
 url                      : https://payamsash.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "payamsash/payamsash.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,23 +23,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Payam S. Shabestari"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD student at Zurich neuroscience center (ZNZ). I'm interested in signal processing, computational neuroscience and machine learning.""
+  location         : "Zurich, Switzerland"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "payam.sadeghishabestari@uzh.ch" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "payamsash"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/payam-sadeghi-2a7312112/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
