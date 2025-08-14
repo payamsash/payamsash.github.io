@@ -22,7 +22,7 @@ repository               : "payamsash/payamsash.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   name             : "Payam S. Shabestari"
   pronouns         : # example: "he/him"  
   bio              : "PhD student at Zurich neuroscience center (ZNZ). I'm interested in signal processing, computational neuroscience and machine learning.""
