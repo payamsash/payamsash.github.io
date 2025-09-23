@@ -54,8 +54,10 @@ redirect_from:
 
 ## [Supervision](#)
 - Philip Aruliah, Psychology master student @ UZH
+  
   *Impact of motor-imagery based neurofeedback on speech production*
 - Louis Larcher, Neuro-X master student @ EPFL
+  
   *Multi dimensional feedback stimuli in neurofeedback*
 
 ## [Journal Revisions](#)
