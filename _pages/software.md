@@ -16,7 +16,7 @@ author_profile: true
   - ORICA (Online Recursive ICA) for source separation
   - Adaptive regression (LMS) to remove EEG blink artifacts
   - Real-time SSP (Signal Space Projection) for MEG artifact removal
-  - HFC correction for high-frequency MEG artifacts
+  - HFC (homogenious field correction) for OPM-MEG data
 - Lightweight project management, for organized and efficient experimentation.
 - Flexible and extensible tools suitable for neuroimaging, visualization, and neurofeedback applications.
 
