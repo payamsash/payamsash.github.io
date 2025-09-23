@@ -27,7 +27,7 @@ author_profile: true
   <a href="https://www.biorxiv.org/content/10.1101/2025.03.10.642147v1">
     <b>Frequency-specific resting-state MEG network characteristics of tinnitus patients revealed by graph learning</b>
   </a><br>
-  <i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
+  <i>bioRxiv (2025)</i><br>
   <b>Payam S Shabestari</b>, Harry H Behjat, Dimitri Van de Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
 </p>
 
@@ -35,7 +35,7 @@ author_profile: true
   <a href="https://www.nature.com/articles/s41598-025-95351-w">
     <b>Prediction of acoustic tinnitus suppression using resting-state EEG via explainable AI approach</b>
   </a><br>
-  <i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
+  <i>Scientific Reports (2025)</i><br>
   <b>Payam S Shabestari</b>, Stefan Schoisswohl, Zino Wellauer, Adrian Naas, Tobias Kleinjung, Martin Schecklmann, Berthold Langguth, Patrick Neff
 </p>
 

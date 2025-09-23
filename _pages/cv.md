@@ -29,6 +29,13 @@ redirect_from:
 - **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2018*  
   BSc in Biomedical Engineering (GPA: 3.8/4)
 
+## [Awards and Grants](#)
+
+- **SNSF PhD Mobility Grant** — *19.100 CHF*  
+  Harvard Medical School and Massachusetts General Hospital (6 months)
+
+- **GRC Travel Grant UZH** — *4.900 CHF*  
+  Harvard Medical School and Massachusetts General Hospital (6 months)
 
 ## [Academic Positions](#)
 
@@ -38,16 +45,6 @@ redirect_from:
 - **University Hospital Zurich, Switzerland** — *Oct 2022*  
   Department of Otorhinolaryngology, Head and Neck Surgery
 
-
-## [Awards and Grants](#)
-
-- **SNSF PhD Mobility Grant** — *19.100 CHF*  
-  Harvard Medical School and Massachusetts General Hospital (6 months)
-
-- **GRC Travel Grant UZH** — *4.900 CHF*  
-  Harvard Medical School and Massachusetts General Hospital (6 months)
-
-
 ## [Teaching](#)
 
 - Programming in Biology (*Sep 2024*)
@@ -56,9 +53,10 @@ redirect_from:
 - Electromagnetics (*Sep 2015*)
 
 ## [Supervision](#)
-- Philip Aruliah, BSc in Psychology @ UZH
-
+- Philip Aruliah, Psychology master student @ UZH
   *Impact of motor-imagery based neurofeedback on speech production*
+- Louis Larcher, Neuro-X master student @ EPFL
+  *Multi dimensional feedback stimuli in neurofeedback*
 
 ## [Journal Revisions](#)
 

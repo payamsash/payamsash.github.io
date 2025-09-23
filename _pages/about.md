@@ -19,8 +19,8 @@ My research focuses on computational neuroscience and involves working with mult
 
 <style>
   .video-figure {
-  max-width: 600px;
-  margin: 2rem auto;
+  max-width: 400px;
+  margin: 1.5rem auto;
   text-align: center;
   }
 
@@ -33,8 +33,8 @@ My research focuses on computational neuroscience and involves working with mult
   }
 
   .video-figure figcaption {
-    margin-top: 0.75rem;
-    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    font-size: nine0.9rem;
     color: #555;
     line-height: 1.4;
   }
