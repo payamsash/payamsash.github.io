@@ -28,6 +28,6 @@ author_profile: true
 - Tools specifically designed for tinnitus biomarker discovery
   
 
-- [Neurograph](https://github.com/payamsash/Neurograph)
+[Neurograph](https://github.com/payamsash/Neurograph)
   
   Neurograph enables graph learning from smooth signals derived from M/EEG or fMRI data, supporting advanced analyses of brain connectivity and network dynamics.
