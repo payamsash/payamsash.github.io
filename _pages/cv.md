@@ -31,7 +31,7 @@ redirect_from:
 
 ## [Awards and Grants](#)
 
-- **SNSF PhD Mobility Grant** — *19.100 CHF*  
+- **SNSF PhD Mobility Grant** — *22.000 CHF*  
   Harvard Medical School and Massachusetts General Hospital (6 months)
 
 - **GRC Travel Grant UZH** — *4.900 CHF*  
