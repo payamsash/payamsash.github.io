@@ -39,6 +39,9 @@ redirect_from:
 
 ## [Academic Positions](#)
 
+- **Academic guest at Biomedical Image Computing Group, Switzerland** — *Nov 2025 - Jan 2027*  
+  D-ITET, ETH zurich
+
 - **Affiliated to research at Karolinska Institute, Sweden** — *May 2023 - Jan 2024*  
   Department of Physiology and Pharmacology
 
