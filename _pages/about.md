@@ -11,7 +11,7 @@ redirect_from:
 Research
 =========
 
-My research focuses on computational neuroscience and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
+My research focuses on computational neuroscience, with an emphasis on analyzing multi-electrode electrophysiological recordings, including MEG and EEG, to advance neuronal data analysis and develop robust real-time signal processing methods for neurofeedback applications. I also have a strong interest and growing experience in MRI-based analysis, with a particular focus on investigating structural and functional connectivity within the human brain.
 
 <style>
   figure { display: flex; flex-direction: column; align-items: center; }
@@ -19,7 +19,7 @@ My research focuses on computational neuroscience and involves working with mult
 
 <style>
   .video-figure {
-  max-width: 400px;
+  max-width: 500px;
   margin: 1.5rem auto;
   text-align: center;
   }
@@ -47,6 +47,6 @@ My research focuses on computational neuroscience and involves working with mult
   </video>
   <figcaption>
     Dynamic visualization of a blooming tree driven by neurofeedback signals
-    (e.g., alpha power), illustrating real-time modulation of the computed feature.
+    (e.g., alpha power) extracted from M/EEG recording, illustrating real-time modulation of the computed feature.
   </figcaption>
 </figure>
