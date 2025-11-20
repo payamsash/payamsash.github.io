@@ -13,7 +13,7 @@ redirect_from:
 **Phone:** +41 79 423 80 38\
 **Email:** [psadeghi@ethz.ch](mailto:psadeghi@ethz.ch)
             [payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)  
-**Website:** [https://payamsash.github.io](https://payamsash.github.io)  
+**Website:** [payamsash.github.io](https://payamsash.github.io)  
 
 
 ## [Education](#)
