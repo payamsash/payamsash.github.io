@@ -11,14 +11,15 @@ redirect_from:
 
 **Date of Birth:** 16 Aug 1995\
 **Phone:** +41 79 423 80 38\
-**Email:** [payam.sadeghi74@gmail.com](mailto:payam.sadeghi74@gmail.com)  
+**Email:** [psadeghi@ethz.ch](mailto:psadeghi@ethz.ch)
+            [payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)  
 **Website:** [https://payamsash.github.io](https://payamsash.github.io)  
 
 
 ## [Education](#)
 
 - **Neuroscience Center Zurich, University of Zurich & ETH Zurich, Switzerland** — *Oct 2022*  
-  PhD Thesis: *Advanced Neurofeedback in Tinnitus (ANT)*
+  PhD Thesis: *Advancing Neurofeedback in Tinnitus (ANT)*
 
 - **Department of Biosystems Science and Engineering, ETH Zurich, Switzerland** — *Nov 2020*  
   MSc Thesis: *Improving spike sorting performance of bursting neurons*
@@ -26,7 +27,7 @@ redirect_from:
 - **Department of Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
   MSc in Biomedical Engineering (GPA: 106/110)
 
-- **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2018*  
+- **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2013*  
   BSc in Biomedical Engineering (GPA: 3.8/4)
 
 ## [Awards and Grants](#)
@@ -37,16 +38,25 @@ redirect_from:
 - **GRC Travel Grant UZH** — *4.900 CHF*  
   Harvard Medical School and Massachusetts General Hospital (6 months)
 
+- **Best Poster Award at ARCHES 2025**   
+  Audiological Research Cores in Europe (ARCHES) Conference
+
 ## [Academic Positions](#)
 
 - **Academic guest at Biomedical Image Computing Group, Switzerland** — *Nov 2025 - Jan 2027*  
-  D-ITET, ETH zurich
+  Dept. of Information Technology and Electrical Engineering, ETH zurich
 
 - **Affiliated to research at Karolinska Institute, Sweden** — *May 2023 - Jan 2024*  
-  Department of Physiology and Pharmacology
+  Dept. of Physiology and Pharmacology
 
 - **University Hospital Zurich, Switzerland** — *Oct 2022*  
-  Department of Otorhinolaryngology, Head and Neck Surgery
+  Dept. of Otorhinolaryngology, Head and Neck Surgery
+
+## [Ongoing Projects](#)
+
+- Closing the loop towards precision medicine in Tinnitus (UKBB data)
+- Identification and validation of a biomarker for tinnitus (TIDE consortium)
+- Normative Gradient Deviations Reveal Individualized and Shared Brain Signatures of Tinnitus (Tinception)
 
 ## [Teaching](#)
 
@@ -55,15 +65,13 @@ redirect_from:
 - Introduction to Biomedical Engineering (*Sep 2016*)
 - Electromagnetics (*Sep 2015*)
 
-## [Supervision](#)
+## [Supervision and Journal Revisions](#)
 - Philip Aruliah, Psychology master student @ UZH
   
   *Impact of motor-imagery based neurofeedback on speech production*
 - Louis Larcher, Neuro-X master student @ EPFL
   
   *Multi dimensional feedback stimuli in neurofeedback*
-
-## [Journal Revisions](#)
 
 - Journal of Psychophysiology
 - Neuromodulation Journal
