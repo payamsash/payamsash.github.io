@@ -5,9 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-see full list here: [google scholar](https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao)  
+See full list here: [google scholar](https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao)  
 
-# First/Last author 
+## First/Last author 
 
 <p>
   <a href="https://link.springer.com/article/10.1007/s10162-025-00999-w">
