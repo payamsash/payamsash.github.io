@@ -11,8 +11,8 @@ redirect_from:
 
 **Date of Birth:** 16 Aug 1995\
 **Phone:** +41 79 423 80 38\
-**Email:** [psadeghi@ethz.ch](mailto:psadeghi@ethz.ch)
-            [payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)  
+**Email:** [psadeghi@ethz.ch](mailto:psadeghi@ethz.ch)\
+            [payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)\  
 **Website:** [payamsash.github.io](https://payamsash.github.io)  
 
 
@@ -66,12 +66,12 @@ redirect_from:
 - Electromagnetics (*Sep 2015*)
 
 ## [Supervision and Journal Revisions](#)
-- Philip Aruliah, Psychology master student @ UZH
-  
-  *Impact of motor-imagery based neurofeedback on speech production*
-- Louis Larcher, Neuro-X master student @ EPFL
-  
-  *Multi dimensional feedback stimuli in neurofeedback*
+
+- *Philip Aruliah, Psychology master student @ UZH*
+  Impact of motor-imagery based neurofeedback on speech production
+
+- *Louis Larcher, Neuro-X master student @ EPFL*
+  Multi dimensional feedback stimuli in neurofeedback
 
 - Journal of Psychophysiology
 - Neuromodulation Journal
