@@ -7,7 +7,7 @@ author_profile: true
 
 See full list here: [google scholar](https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao)  
 
-## First/Last author 
+## First or Last author 
 
 <p>
   <a href="https://link.springer.com/article/10.1007/s10162-025-00999-w">
@@ -31,6 +31,14 @@ See full list here: [google scholar](https://scholar.google.com/citations?user=W
   </a><br>
   <i>bioRxiv (2025)</i><br>
   <b>Payam S Shabestari</b>, Harry H Behjat, Dimitri Van de Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
+</p>
+
+<p>
+  <a href="https://www.medrxiv.org/content/10.1101/2025.11.18.25340332v1">
+    <b>E-field guided repetitive transcranial magnetic stimulation modulates oscillatory brain activity dynamics in tinnitus</b>
+  </a><br>
+  <i>medRxiv (2025)</i><br>
+  Stefan Schoisswohl, Berthold Langguth, Patrick Neff, Martin Schecklmann, Tobias Kleinjung, <b>Payam S Shabestari</b>
 </p>
 
 <p>
