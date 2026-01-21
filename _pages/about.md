@@ -48,5 +48,7 @@ My research focuses on computational neuroscience, with an emphasis on analyzing
   <figcaption>
     Dynamic visualization of a blooming tree driven by neurofeedback signals
     (e.g., alpha power) extracted from M/EEG recording, illustrating real-time modulation of the computed feature.
+    <br>
+    <a href="https://www.tagesanzeiger.ch/tinnitus-usz-testet-neuro-feedback-als-behandlungsmethode-410103615368" target="_blank" rel="noopener noreferrer">See on newspaper</a>
   </figcaption>
 </figure>
