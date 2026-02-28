@@ -41,6 +41,9 @@ redirect_from:
 - **Best Poster Award at ARCHES 2025**   
   Audiological Research Cores in Europe (ARCHES) Conference
 
+- **Research Award from STL 2026** — *2.000 CHF*  
+  Swiss Tinnitus League
+
 ## [Academic Positions](#)
 
 - **Academic guest at Biomedical Image Computing Group, Switzerland** — *Nov 2025 - Jan 2027*  
@@ -54,9 +57,9 @@ redirect_from:
 
 ## [Ongoing Projects](#)
 
-- Closing the loop towards precision medicine in Tinnitus (UKBB data)
-- Identification and validation of a biomarker for tinnitus (TIDE consortium)
-- Normative Gradient Deviations Reveal Individualized and Shared Brain Signatures of Tinnitus (Tinception)
+- Closing the loop towards precision medicine in Tinnitus (UKBB data) ([repository](https://github.com/payamsash/tinception))
+- Identification and validation of a biomarker for tinnitus (TIDE consortium) ([repository](https://github.com/payamsash/TIDE))
+- A normative modeling framework for identifying diffusive EEG biomarkers in tinnitus ([repository](https://github.com/payamsash/Tinnorm))
 
 ## [Teaching](#)
 
