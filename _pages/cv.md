@@ -25,7 +25,7 @@ redirect_from:
   MSc Thesis: *Improving spike sorting performance of bursting neurons*
 
 - **Department of Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
-  MSc in Biomedical Engineering (GPA: 106/110)
+  MSc in Biomedical Engineering (GPA: 104/110)
 
 - **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2013*  
   BSc in Biomedical Engineering (GPA: 3.8/4)
