@@ -13,7 +13,7 @@ See full list here: [google scholar](https://scholar.google.com/citations?user=W
   <a href="https://ieeexplore.ieee.org/abstract/document/11506300">
     <b>Shared and Individual Resting-State MEG Network Signatures of Tinnitus Revealed by Holistic Graph Learning</b>
   </a><br>
-  <i>bioRxiv (2025)</i><br>
+  <i>IEEE Open Journal of Engineering in Medicine and Biology (2026)</i><br>
   <b>Payam S Shabestari</b>, Harry H Behjat, Dimitri Van de Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
 </p>
 
