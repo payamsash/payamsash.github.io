@@ -10,6 +10,14 @@ See full list here: [google scholar](https://scholar.google.com/citations?user=W
 ## First or Last author 
 
 <p>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11506300">
+    <b>Shared and Individual Resting-State MEG Network Signatures of Tinnitus Revealed by Holistic Graph Learning</b>
+  </a><br>
+  <i>bioRxiv (2025)</i><br>
+  <b>Payam S Shabestari</b>, Harry H Behjat, Dimitri Van de Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
+</p>
+
+<p>
   <a href="https://link.springer.com/article/10.1007/s10162-025-00999-w">
     <b>Inhibition of Cortical Evoked Responses to Sound Pulses by Preceding Silent Gaps</b>
   </a><br>
@@ -23,14 +31,6 @@ See full list here: [google scholar](https://scholar.google.com/citations?user=W
   </a><br>
   <i>IEEE CBMS (2025)</i><br>
   <b>Payam S Shabestari</b>, Delphine Ribes, Lara Défayes, Danpeng Cai, Emily Groves, Harry H Behjat, Dimitri Van de Ville, Tobias Kleinjung, Adrian Naas, Nicolas Henchoz, Andreas Sonderegger, Patrick Neff
-</p>
-
-<p>
-  <a href="https://www.biorxiv.org/content/10.1101/2025.03.10.642147v1">
-    <b>Frequency-specific resting-state MEG network characteristics of tinnitus patients revealed by graph learning</b>
-  </a><br>
-  <i>bioRxiv (2025)</i><br>
-  <b>Payam S Shabestari</b>, Harry H Behjat, Dimitri Van de Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
 </p>
 
 <p>
