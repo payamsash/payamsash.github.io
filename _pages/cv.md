@@ -15,6 +15,11 @@ redirect_from:
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)\
 **Website:** [payamsash.github.io](https://payamsash.github.io)  
 
+## [Work Experiences](#)
+
+- **Software Engineer at Fondation Campus Biotech Geneva** — *June 2026*  
+  System Development for Behavioral Video Analysis and M/EEG Data Analytics
+
 
 ## [Education](#)
 
