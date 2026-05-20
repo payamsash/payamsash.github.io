@@ -6,6 +6,14 @@ author_profile: true
 ---
 <p>
 <a href="https://payamsash.github.io/talks/">
+<b>Normative Gradient Deviations Reveal Individualized and Shared Brain Signatures of Tinnitus</b></a>
+</p>
+
+***Organization for Human Brain Mapping (OHBM)***  
+*June 14, 2026 — Bordeaux, France*
+
+<p>
+<a href="https://payamsash.github.io/talks/">
 <b>Advancing Neurofeedback in Tinnitus (ANT)</b></a>
 </p>
 
@@ -25,6 +33,9 @@ author_profile: true
 <a href="https://payamsash.github.io/talks/">
 <b>Advances on Real Time M/EEG Neural Feature Extraction</b></a>
 </p>
+
+***Organization for Human Brain Mapping (OHBM)***  
+*June 14, 2026 — Bordeaux, France*
 
 ***IEEE International Symposium on Computer Based Medical Systems (CBMS)***  
 *June 15, 2025 — Madrid, Spain*
