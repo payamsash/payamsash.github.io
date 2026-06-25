@@ -5,22 +5,21 @@ permalink: /software/
 author_profile: true
 ---
 
-[ANT](https://payamsash.github.io/ANT/)
+[MNE-RT](https://mne-rt-org.github.io/mne-rt/)
 
 <p>
-<img src="https://raw.githubusercontent.com/payamsash/ANT/main/docs/source/_static/ANT_Logo_Horizontal.svg" alt="ANT Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
-<a href="https://payamsash.github.io/ANT/">ANT</a> is an open-source Python package for real-time closed-loop M/EEG neurofeedback, built on <a href="https://mne.tools">MNE-Python</a> and the <a href="https://labstreaminglayer.org">Lab Streaming Layer (LSL)</a>. It covers the full pipeline — from amplifier to 3D brain display — in a single, researcher-friendly API:
+<img src="https://github.com/mne-rt-org/mne-rt/blob/main/docs/source/_static/mne_rt_logo.svg" alt="MNE-RT Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
+<a href="https://mne-rt-org.github.io/mne-rt/">MNE-RT</a> is a high-level neurofeedback and BCI application framework built on top of <a href="https://mne.tools">MNE-Python</a> and <a href="https://mne.tools/mne-lsl/stable/index.html">MNE-LSL</a>. It adds the full closed-loop pipeline that neither of the above provides: neural feature extraction modalities spanning sensor and source space; adaptive feedback protocols; online artifact correction methods; and live visualisation windows. It also handles feature combining, external feedback output via OSC and LSL outlets, BIDS-compatible session saving, and a full CLI.
 </p>
 
-- 20+ neural features in sensor and source space: band power, ERD/ERS, laterality, Hjorth parameters, spectral centroid, slow cortical potentials, CFC, functional connectivity, graph Laplacian
-- Adaptive reward protocols: z-score, threshold, percentile, staircase, operant, reinforcement learning, sham, and transfer — evaluated inside the acquisition loop on every analysis window
-- Real-time artifact correction: ASR, adaptive LMS, GEDAI (GED-based spatial filters), ORICA (online ICA), Riemannian covariance detection
-- Real-time Maxwell filtering: pre-computed SSS/tSSS projector for zero-latency MEG denoising, numerically equivalent to offline MNE
-- Three live displays: raw stream viewer, NF signal monitor, and 3D cortical activation map
-- External output via OSC (Max/MSP, SuperCollider, Pure Data) and LSL outlet (PsychoPy, OpenViBE) for reward delivery
-- Command-line interface: `ANT info` · `ANT demo` · `ANT baseline` · `ANT run` — no Python required
-
 <div style="clear:both;"></div>
+
+[ANTARES](https://github.com/payamsash/antares)
+
+ANTARES is a closed-loop EEG neurofeedback system designed for tinnitus research. It runs an adaptive multi-session protocol: automatically selecting the best EEG feature to train per subject, monitoring feature quality across sessions, and adjusting the training target when necessary. 
+- The operator controls everything from a single GUI. 
+- A separate full-screen display runs on the participant's monitor.
+- The real-time visualisation engine renders the neurofeedback animation.
 
 [TIDE](https://github.com/payamsash/TIDE)
 

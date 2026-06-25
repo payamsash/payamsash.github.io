@@ -37,7 +37,7 @@ See full list here: [google scholar](https://scholar.google.com/citations?user=W
   <a href="https://www.medrxiv.org/content/10.1101/2025.11.18.25340332v1">
     <b>E-field guided repetitive transcranial magnetic stimulation modulates oscillatory brain activity dynamics in tinnitus</b>
   </a><br>
-  <i>medRxiv (2025)</i><br>
+  <i>Brain Research Bulletin (2026)</i><br>
   Stefan Schoisswohl, Berthold Langguth, Patrick Neff, Martin Schecklmann, Tobias Kleinjung, <b>Payam S Shabestari</b>
 </p>
 

@@ -13,6 +13,8 @@ redirect_from:
 **Phone:** +41 79 423 80 38\
 **Email:** [payam.sadeghi-shabestari@vision.ee.ethz.ch](mailto:payam.sadeghi-shabestari@vision.ee.ethz.ch)\
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)\
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[payam.sadeghi@fcbg.ch](mailto:payam.sadeghi@fcbg.ch)
+
 **Website:** [payamsash.github.io](https://payamsash.github.io)  
 
 ## [Work Experiences](#)
