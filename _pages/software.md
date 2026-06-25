@@ -8,7 +8,7 @@ author_profile: true
 [MNE-RT](https://mne-rt-org.github.io/mne-rt/)
 
 <p>
-<img src="https://github.com/mne-rt-org/mne-rt/blob/main/docs/source/_static/mne_rt_logo.svg" alt="MNE-RT Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
+<img src="https://github.com/mne-rt-org/mne-rt/raw/main/docs/source/_static/mne_rt_logo.svg" alt="MNE-RT Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
 <a href="https://mne-rt-org.github.io/mne-rt/">MNE-RT</a> is a high-level neurofeedback and BCI application framework built on top of <a href="https://mne.tools">MNE-Python</a> and <a href="https://mne.tools/mne-lsl/stable/index.html">MNE-LSL</a>. It adds the full closed-loop pipeline that neither of the above provides: neural feature extraction modalities spanning sensor and source space; adaptive feedback protocols; online artifact correction methods; and live visualisation windows. It also handles feature combining, external feedback output via OSC and LSL outlets, BIDS-compatible session saving, and a full CLI.
 </p>
 
