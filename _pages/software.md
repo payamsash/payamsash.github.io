@@ -16,7 +16,20 @@ author_profile: true
 
 [ANTARES](https://github.com/payamsash/antares)
 
-ANTARES is a closed-loop EEG neurofeedback system designed for tinnitus research. It runs an adaptive multi-session protocol: automatically selecting the best EEG feature to train per subject, monitoring feature quality across sessions, and adjusting the training target when necessary. 
+<p>
+<img src='/images/antares.png' alt="ANTARES Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
+<a href="https://github.com/payamsash/antares/">ANTARES is a closed-loop EEG neurofeedback system designed for tinnitus research. It runs an adaptive multi-session protocol: automatically selecting the best EEG feature to train per subject, monitoring feature quality across sessions, and adjusting the training target when necessary. 
+- The operator controls everything from a single GUI. 
+- A separate full-screen display runs on the participant's monitor.
+- The real-time visualisation engine renders the neurofeedback animation.
+
+<div style="clear:both;"></div>
+
+[MOSAIC](https://github.com/fcbg-platforms/mosaic)
+
+<p>
+<img src='/images/mosaic-logo.svg' alt="MOSAIC Logo" width="260" style="float: right; margin: 0 0 1em 2em;"/>
+<a href="https://github.com/payamsash/antares/">ANTARES is a closed-loop EEG neurofeedback system designed for tinnitus research. It runs an adaptive multi-session protocol: automatically selecting the best EEG feature to train per subject, monitoring feature quality across sessions, and adjusting the training target when necessary. 
 - The operator controls everything from a single GUI. 
 - A separate full-screen display runs on the participant's monitor.
 - The real-time visualisation engine renders the neurofeedback animation.
