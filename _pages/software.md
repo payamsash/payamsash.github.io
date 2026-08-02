@@ -5,8 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-# Projects
-
 <p style="color:#6a737d; font-size:0.95em; margin-top:-0.5em;">
 Software and tools I've built or maintained for neuroscience research —
 neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
@@ -20,7 +18,7 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
-## [MNE-RT](https://mne-rt-org.github.io/mne-rt/)
+% ## [MNE-RT](https://mne-rt-org.github.io/mne-rt/)
 
 <a href="https://mne-rt-org.github.io/mne-rt/">MNE-RT</a> is a high-level neurofeedback and BCI framework built on top of
 <a href="https://mne.tools">MNE-Python</a> and
@@ -45,7 +43,7 @@ session saving, and a comprehensive command-line interface.
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
-## [ANTARES](https://github.com/payamsash/antares)
+% ## [ANTARES](https://github.com/payamsash/antares)
 
 <a href="https://github.com/payamsash/antares">ANTARES</a> is a closed-loop EEG
 neurofeedback system developed for tinnitus research. It runs an adaptive
@@ -74,7 +72,7 @@ training target when necessary.
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
-## [MOSAIC](https://github.com/fcbg-platforms/mosaic)
+% ## [MOSAIC](https://github.com/fcbg-platforms/mosaic)
 
 <a href="https://github.com/fcbg-platforms/mosaic">MOSAIC</a> is a synchronized
 multi-camera + audio recording suite for research labs, built around Basler GigE
@@ -92,7 +90,7 @@ Layer (LSL) integration for syncing with external systems (e.g. EEG).
 
 <div style="margin-bottom:0.5em;">
 
-## [TIDE](https://github.com/payamsash/TIDE)
+% ## [TIDE](https://github.com/payamsash/TIDE)
 
 <a href="https://github.com/payamsash/TIDE">TIDE</a> focuses on identifying and
 validating EEG biomarkers for tinnitus, providing a personalised, data-driven
@@ -114,7 +112,7 @@ approach to chronic tinnitus diagnosis.
 
 <div style="margin-bottom:0.5em;">
 
-## [Neurograph](https://github.com/payamsash/Neurograph)
+% ## [Neurograph](https://github.com/payamsash/Neurograph)
 
 <a href="https://github.com/payamsash/Neurograph">Neurograph</a> enables graph
 learning from smooth signals derived from M/EEG and fMRI data, supporting
@@ -132,37 +130,6 @@ advanced analyses of brain connectivity and network dynamics.
 
 <p style="color:#6a737d; font-size:0.95em; margin-top:-0.5em;">
 Bug fixes, features, and maintenance work contributed to open-source scientific
-Python packages I use in my own research.
-</p>
+Python packages I use in my own research, such as <a href="https://mne.tools">MNE-Python</a>, <a href="https://mne.tools/mne-connectivity/stable/index.html">mne-connectivity</a>, <a href="https://seaborn.pydata.org">Seaborn</a>.
 
-<table style="width:100%; border-collapse:collapse; margin-top:0.8em;">
-  <tbody>
-    <tr style="border-bottom:1px solid #e1e4e8;">
-      <td style="padding:0.7em 0.8em 0.7em 0; width:32%; vertical-align:top;">
-        <a href="https://mne.tools" style="font-weight:600;">MNE-Python</a>
-      </td>
-      <td style="padding:0.7em 0; vertical-align:top;">
-        Contributed bug fixes and small enhancements to the core signal
-        processing and analysis modules used across my EEG/MEG pipelines.
-      </td>
-    </tr>
-    <tr style="border-bottom:1px solid #e1e4e8;">
-      <td style="padding:0.7em 0.8em 0.7em 0; vertical-align:top;">
-        <a href="https://mne.tools/mne-connectivity/stable/index.html" style="font-weight:600;">mne-connectivity</a>
-      </td>
-      <td style="padding:0.7em 0; vertical-align:top;">
-        Contributed fixes and improvements to connectivity estimation
-        functionality used in tinnitus and brain-network research.
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:0.7em 0.8em 0.7em 0; vertical-align:top;">
-        <a href="https://seaborn.pydata.org" style="font-weight:600;">seaborn</a>
-      </td>
-      <td style="padding:0.7em 0; vertical-align:top;">
-        Contributed a bug fix and minor plotting improvements to the
-        statistical visualisation library.
-      </td>
-    </tr>
-  </tbody>
-</table>
+</p>
