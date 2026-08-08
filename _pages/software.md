@@ -18,8 +18,6 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
-% ## [MNE-RT](https://mne-rt-org.github.io/mne-rt/)
-
 <a href="https://mne-rt-org.github.io/mne-rt/">MNE-RT</a> is a high-level neurofeedback and BCI framework built on top of
 <a href="https://mne.tools">MNE-Python</a> and
 <a href="https://mne.tools/mne-lsl/stable/index.html">MNE-LSL</a>.
@@ -42,8 +40,6 @@ session saving, and a comprehensive command-line interface.
        alt="ANTARES Logo" width="180"
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
-
-% ## [ANTARES](https://github.com/payamsash/antares)
 
 <a href="https://github.com/payamsash/antares">ANTARES</a> is a closed-loop EEG
 neurofeedback system developed for tinnitus research. It runs an adaptive
@@ -72,8 +68,6 @@ training target when necessary.
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
-% ## [MOSAIC](https://github.com/fcbg-platforms/mosaic)
-
 <a href="https://github.com/fcbg-platforms/mosaic">MOSAIC</a> is a synchronized
 multi-camera + audio recording suite for research labs, built around Basler GigE
 cameras, with live pose/gaze preview, post-recording analysis, and Lab Streaming
@@ -88,9 +82,23 @@ Layer (LSL) integration for syncing with external systems (e.g. EEG).
 
 ---
 
-<div style="margin-bottom:0.5em;">
+<div style="display:flex; align-items:flex-start; gap:2em; margin-bottom:0.5em; flex-wrap:wrap;">
+  <img src="/images/logo_hex.svg"
+       alt="MOSAIC Logo" width="180"
+       style="flex-shrink:0; margin-top:0.3em;"/>
+  <div style="flex:1; min-width:260px;">
 
-% ## [TIDE](https://github.com/payamsash/TIDE)
+<a href="https://mne.tools">MNE-Python</a> is an open-source Python package for exploring, 
+visualizing, and analyzing human neurophysiological data (MEG, EEG, sEEG, ECoG, fNIRS, and more). As a member of the maintainer team, I contribute to core maintenance, code reviews, bug fixes, and feature development across the MNE ecosystem.
+
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">M/EEG data analysis</span>
+
+  </div>
+</div>
+
+---
+
+<div style="margin-bottom:0.5em;">
 
 <a href="https://github.com/payamsash/TIDE">TIDE</a> focuses on identifying and
 validating EEG biomarkers for tinnitus, providing a personalised, data-driven
@@ -107,29 +115,3 @@ approach to chronic tinnitus diagnosis.
 <span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">multi-site</span>
 
 </div>
-
----
-
-<div style="margin-bottom:0.5em;">
-
-% ## [Neurograph](https://github.com/payamsash/Neurograph)
-
-<a href="https://github.com/payamsash/Neurograph">Neurograph</a> enables graph
-learning from smooth signals derived from M/EEG and fMRI data, supporting
-advanced analyses of brain connectivity and network dynamics.
-
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">graph learning</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">connectivity</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">M/EEG · fMRI</span>
-
-</div>
-
----
-
-## Open Source Contributions
-
-<p style="color:#6a737d; font-size:0.95em; margin-top:-0.5em;">
-Bug fixes, features, and maintenance work contributed to open-source scientific
-Python packages I use in my own research, such as <a href="https://mne.tools">MNE-Python</a>, <a href="https://mne.tools/mne-connectivity/stable/index.html">mne-connectivity</a>, <a href="https://seaborn.pydata.org">Seaborn</a>.
-
-</p>
