@@ -84,7 +84,7 @@ Layer (LSL) integration for syncing with external systems (e.g. EEG).
 
 <div style="display:flex; align-items:flex-start; gap:2em; margin-bottom:0.5em; flex-wrap:wrap;">
   <img src="/images/logo_hex.svg"
-       alt="MOSAIC Logo" width="180"
+       alt="MNE Logo" width="180"
        style="flex-shrink:0; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
