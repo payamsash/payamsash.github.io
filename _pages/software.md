@@ -26,9 +26,9 @@ feature extraction, adaptive neurofeedback protocols, online artifact correction
 real-time visualisation, feature combination, OSC and LSL output, BIDS-compatible
 session saving, and a comprehensive command-line interface.
 
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Python</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">neurofeedback</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">real-time BCI</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">M/EEG</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Neurofeedback</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Real-time BCI</span>
 
   </div>
 </div>
@@ -54,8 +54,9 @@ training target when necessary.
 - Real-time neurofeedback visualisation engine
 
 <span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">EEG</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">tinnitus research</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">adaptive protocol</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Tinnitus</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Adaptive protocol</span>
+<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">Normative modeling</span>
 
   </div>
 </div>
@@ -74,7 +75,6 @@ cameras, with live pose/gaze preview, post-recording analysis, and Lab Streaming
 Layer (LSL) integration for syncing with external systems (e.g. EEG).
 
 <span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">multi-camera</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">LSL</span>
 <span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">pose/gaze tracking</span>
 
   </div>
@@ -84,8 +84,8 @@ Layer (LSL) integration for syncing with external systems (e.g. EEG).
 
 <div style="display:flex; align-items:flex-start; gap:2em; margin-bottom:0.5em; flex-wrap:wrap;">
   <img src="/images/logo_hex.svg"
-       alt="MNE Logo" width="120"
-       style="flex-shrink:0; margin-top:0.3em;"/>
+       alt="MNE Logo" width="180"
+       style="flex-shrink:10; margin-top:0.3em;"/>
   <div style="flex:1; min-width:260px;">
 
 <a href="https://mne.tools">MNE-Python</a> is an open-source Python package for exploring, 
@@ -94,24 +94,4 @@ visualizing, and analyzing human neurophysiological data (MEG, EEG, sEEG, ECoG, 
 <span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">M/EEG data analysis</span>
 
   </div>
-</div>
-
----
-
-<div style="margin-bottom:0.5em;">
-
-<a href="https://github.com/payamsash/TIDE">TIDE</a> focuses on identifying and
-validating EEG biomarkers for tinnitus, providing a personalised, data-driven
-approach to chronic tinnitus diagnosis.
-
-**Key features**
-
-- Fully and semi-automated EEG preprocessing and analysis
-- Unified file management for multi-site and multi-paradigm datasets
-- Tools specifically designed for tinnitus biomarker discovery
-
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">EEG</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">biomarkers</span>
-<span style="display:inline-block; background:#eef2ff; color:#3730a3; font-size:0.78em; padding:2px 8px; border-radius:12px; margin-top:0.4em;">multi-site</span>
-
 </div>
