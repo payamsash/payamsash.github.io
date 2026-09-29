@@ -6,6 +6,15 @@ author_profile: true
 ---
 <p>
 <a href="https://payamsash.github.io/talks/">
+<b>Harmonizing Multi-Scale Heterogeneity: A Normative Modeling Framework for Identifying
+Diffusive EEG Biomarkers in Tinnitus</b></a>
+</p>
+
+***Tinnitus Research Initiative (TRI) 2026***  
+*Sep 15, 2026 — Berlin, Germany*
+
+<p>
+<a href="https://payamsash.github.io/talks/">
 <b>Normative Gradient Deviations Reveal Individualized and Shared Brain Signatures of Tinnitus</b></a>
 </p>
 
