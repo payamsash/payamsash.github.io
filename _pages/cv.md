@@ -59,7 +59,7 @@ redirect_from:
 - **Affiliated to research at Karolinska Institute, Sweden** — *May 2023 - Jan 2024*  
   Dept. of Physiology and Pharmacology
 
-- **University Hospital Zurich, Switzerland** — *Oct 2022*  
+- **University Hospital Zurich, Switzerland** — *Oct 2022 - Oct 2026*
   Dept. of Otorhinolaryngology, Head and Neck Surgery
 
 ## [Ongoing Projects](#)
@@ -75,7 +75,7 @@ redirect_from:
 - Introduction to Biomedical Engineering (*Sep 2016*)
 - Electromagnetics (*Sep 2015*)
 
-## [Supervision and Journal Revisions](#)
+## [Supervisions](#)
 
 - Philip Aruliah, Psychology master student @ UZH
 
@@ -84,8 +84,5 @@ redirect_from:
 - *Louis Larcher, Neuro-X master student @ EPFL*
 
   Multi dimensional feedback stimuli in neurofeedback
-
-- Journal of Psychophysiology
-- Neuromodulation Journal
 
 
