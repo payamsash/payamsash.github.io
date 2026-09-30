@@ -59,7 +59,7 @@ redirect_from:
 - **Affiliated to research at Karolinska Institute, Sweden** — *May 2023 - Jan 2024*  
   Dept. of Physiology and Pharmacology
 
-- **University Hospital Zurich, Switzerland** — *Oct 2022 - Oct 2026*
+- **University Hospital Zurich, Switzerland** — *Oct 2022 - Oct 2026*  
   Dept. of Otorhinolaryngology, Head and Neck Surgery
 
 ## [Ongoing Projects](#)
