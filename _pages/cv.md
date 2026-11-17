@@ -7,82 +7,66 @@ redirect_from:
   - /resume
 ---
 
-## [Biography](#)
+<p class="print-only print-header"><strong>Payam S. Shabestari</strong><br>Software Engineer · payamsash.github.io</p>
 
-**Date of Birth:** 16 Aug 1995\
-**Phone:** +41 79 423 80 38\
-**Email:** [payam.sadeghi-shabestari@vision.ee.ethz.ch](mailto:payam.sadeghi-shabestari@vision.ee.ethz.ch)\
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[payam.sadeghishabestari@{uzh, usz}.ch](mailto:payam.sadeghishabestari@uzh.ch)\
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[payam.sadeghi@fcbg.ch](mailto:payam.sadeghi@fcbg.ch)
+<p class="cv-download"><a class="btn-outline" href="/files/Payam_Shabestari_CV.pdf" download>Download CV (PDF)</a></p>
 
-**Website:** [payamsash.github.io](https://payamsash.github.io)  
+## Contact
 
-## [Work Experiences](#)
+**Email:** [payam.sadeghi@fcbg.ch](mailto:payam.sadeghi@fcbg.ch) · [psadeghi@ethz.ch](mailto:psadeghi@ethz.ch)\
+**Based in:** Zurich & Geneva, Switzerland
 
-- **Software Engineer at Fondation Campus Biotech Geneva** — *June 2026*  
-  System Development for Behavioral Video Analysis and M/EEG Data Analytics
+## Experience
 
+- **Software Engineer, Fondation Campus Biotech Geneva (FCBG)** — *June 2026 – present*  
+  System development for behavioral video analysis and M/EEG data analytics
 
-## [Education](#)
+## Education
 
-- **Neuroscience Center Zurich, University of Zurich & ETH Zurich, Switzerland** — *Oct 2022*  
-  PhD Thesis: *Advancing Neurofeedback in Tinnitus (ANT)*
+- **PhD in Neuroscience, Neuroscience Center Zurich (University of Zurich & ETH Zurich)** — *Oct 2022 – 2026*  
+  Thesis: *Advancing Neurofeedback in Tinnitus (ANT)*
 
 - **Department of Biosystems Science and Engineering, ETH Zurich, Switzerland** — *Nov 2020*  
-  MSc Thesis: *Improving spike sorting performance of bursting neurons*
+  MSc thesis: *Improving spike sorting performance of bursting neurons*
 
-- **Department of Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
-  MSc in Biomedical Engineering (GPA: 104/110)
+- **MSc in Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
+  GPA: 104/110
 
-- **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2013*  
-  BSc in Biomedical Engineering (GPA: 3.8/4)
+- **BSc in Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2013*  
+  GPA: 3.8/4
 
-## [Awards and Grants](#)
+## Academic Positions
 
-- **SNSF PhD Mobility Grant** — *22.000 CHF*  
-  Harvard Medical School and Massachusetts General Hospital (6 months)
+- **Academic guest, Biomedical Image Computing Group, ETH Zurich** — *Nov 2025 – Jan 2027*  
+  Dept. of Information Technology and Electrical Engineering
 
-- **GRC Travel Grant UZH** — *4.900 CHF*  
-  Harvard Medical School and Massachusetts General Hospital (6 months)
-
-- **Best Poster Award at ARCHES 2025**   
-  Audiological Research Cores in Europe (ARCHES) Conference
-
-- **Research Award from STL 2026** — *2.000 CHF*  
-  Swiss Tinnitus League
-
-## [Academic Positions](#)
-
-- **Academic guest at Biomedical Image Computing Group, Switzerland** — *Nov 2025 - Jan 2027*  
-  Dept. of Information Technology and Electrical Engineering, ETH zurich
-
-- **Affiliated to research at Karolinska Institute, Sweden** — *May 2023 - Jan 2024*  
-  Dept. of Physiology and Pharmacology
-
-- **University Hospital Zurich, Switzerland** — *Oct 2022 - Oct 2026*  
+- **University Hospital Zurich, Switzerland** — *Oct 2022 – Oct 2026*  
   Dept. of Otorhinolaryngology, Head and Neck Surgery
 
-## [Ongoing Projects](#)
+- **Affiliated researcher, Karolinska Institute, Sweden** — *May 2023 – Jan 2024*  
+  Dept. of Physiology and Pharmacology
 
-- Closing the loop towards precision medicine in Tinnitus (UKBB data) ([repository](https://github.com/payamsash/tinception))
-- Identification and validation of a biomarker for tinnitus (TIDE consortium) ([repository](https://github.com/payamsash/TIDE))
-- A normative modeling framework for identifying diffusive EEG biomarkers in tinnitus ([repository](https://github.com/payamsash/Tinnorm))
+## Awards and Grants
 
-## [Teaching](#)
+- **Research Award, Swiss Tinnitus League (2026)** — *2,000 CHF*
+- **Best Poster Award, ARCHES 2025** — Audiological Research Cores in Europe
+- **SNSF PhD Mobility Grant** — *22,000 CHF* — Harvard Medical School & Massachusetts General Hospital (6 months)
+- **GRC Travel Grant, UZH** — *4,900 CHF* — Harvard Medical School & Massachusetts General Hospital (6 months)
 
-- Programming in Biology (*Sep 2024*)
-- Biosignals and Engineering; Challenges in M/EEG Processing (*Sep 2023*)
-- Introduction to Biomedical Engineering (*Sep 2016*)
-- Electromagnetics (*Sep 2015*)
+## Ongoing Projects
 
-## [Supervisions](#)
+- Closing the loop towards precision medicine in tinnitus (UK Biobank data) — [repository](https://github.com/payamsash/tinception)
+- Identification and validation of a biomarker for tinnitus (TIDE consortium) — [repository](https://github.com/payamsash/TIDE)
+- A normative modeling framework for identifying diffusive EEG biomarkers in tinnitus — [repository](https://github.com/payamsash/Tinnorm)
 
-- Philip Aruliah, Psychology master student @ UZH
+## Teaching
 
-  Impact of motor-imagery based neurofeedback on speech production
+- Programming in Biology — *Sep 2024*
+- Biosignals and Engineering: Challenges in M/EEG Processing — *Sep 2023*
+- Introduction to Biomedical Engineering — *Sep 2016*
+- Electromagnetics — *Sep 2015*
 
-- *Louis Larcher, Neuro-X master student @ EPFL*
+## Supervision
 
-  Multi dimensional feedback stimuli in neurofeedback
-
-
+- **Philip Aruliah**, MSc Psychology, UZH — *Impact of motor-imagery based neurofeedback on speech production*
+- **Louis Larcher**, MSc Neuro-X, EPFL — *Multi-dimensional feedback stimuli in neurofeedback*

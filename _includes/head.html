@@ -1,7 +1,9 @@
 {% include base_path %}
 
 <meta charset="utf-8">
+{% if jekyll.environment == 'production' %}
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+{% endif %}
 
 {% include seo.html %}
 
@@ -14,6 +16,17 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<script>
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem('theme'); } catch (e) {}
+    if (t !== 'light' && t !== 'dark') {
+      t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.setAttribute('data-theme', t);
+  })();
 </script>
 
 <!-- For all browsers -->

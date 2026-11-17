@@ -1,56 +1,27 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Research
-=========
+I'm a **software engineer at [Fondation Campus Biotech Geneva (FCBG)](https://www.fcbg.ch)**, where I build systems for behavioral video analysis and M/EEG data analytics. I split my time between **Zurich** and **Geneva**.
 
-My research focuses on computational neuroscience, with an emphasis on analyzing multi-electrode electrophysiological recordings, including MEG and EEG, to advance neuronal data analysis and develop robust real-time signal processing methods for neurofeedback applications. I also have a strong interest and growing experience in MRI-based analysis, with a particular focus on investigating structural and functional connectivity within the human brain.
+I completed my **PhD at the Neuroscience Center Zurich** (University of Zurich & ETH Zurich). My thesis, *Advancing Neurofeedback in Tinnitus*, focused on real-time M/EEG signal processing and closed-loop neurofeedback. I also work with MRI-based structural and functional connectivity.
 
-<style>
-  figure { display: flex; flex-direction: column; align-items: center; }
-</style>
-
-<style>
-  .video-figure {
-  max-width: 500px;
-  margin: 1.5rem auto;
-  text-align: center;
-  }
-
-  .video-embed {
-    width: 100%;
-    height: auto;
-    border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
-    display: block;
-  }
-
-  .video-figure figcaption {
-    margin-top: 0.5rem;
-    font-size: nine0.9rem;
-    color: #555;
-    line-height: 1.4;
-  }
-</style>
+I care about well-engineered, open research software. I'm a maintainer of [MNE-Python](https://mne.tools) and the author of [MNE-RT](https://mne-rt-org.github.io/mne-rt/).
 
 <figure class="video-figure">
   <video class="video-embed" autoplay muted loop playsinline>
     <source src="/images/VisualTree.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
   <figcaption>
-    Dynamic visualization of a blooming tree driven by neurofeedback signals
-    (e.g., alpha power) extracted from M/EEG recording, illustrating real-time modulation of the computed feature.
+    A blooming tree driven in real time by a neurofeedback signal (e.g. alpha power) extracted from M/EEG.
     <br>
-    <a href="https://www.rts.ch/play/tv/36-9/video/acouphenes--quelles-solutions-?urn=urn:rts:video:2329560a-fc02-3a95-8721-fea33bf73daf" target="_blank" rel="noopener noreferrer">See on RTS</a>
-    &nbsp;|&nbsp;
-    <a href="https://www.tagesanzeiger.ch/tinnitus-usz-testet-neuro-feedback-als-behandlungsmethode-410103615368" target="_blank" rel="noopener noreferrer">See on newspaper</a>
+    <a href="https://www.rts.ch/play/tv/36-9/video/acouphenes--quelles-solutions-?urn=urn:rts:video:2329560a-fc02-3a95-8721-fea33bf73daf" target="_blank" rel="noopener noreferrer">RTS feature</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.tagesanzeiger.ch/tinnitus-usz-testet-neuro-feedback-als-behandlungsmethode-410103615368" target="_blank" rel="noopener noreferrer">Tages-Anzeiger article</a>
   </figcaption>
 </figure>
