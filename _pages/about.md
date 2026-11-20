@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **software engineer at [Fondation Campus Biotech Geneva (FCBG)](https://www.fcbg.ch)**, where I build systems for behavioral video analysis and M/EEG data analytics. I split my time between **Zurich** and **Geneva**.
+I'm a **research software engineer at [Fondation Campus Biotech Geneva (FCBG)](https://www.fcbg.ch)**, where I:
+
+- develop M/EEG data analytics methods and help research groups with their analyses
+- build systems and software for behavioral video and audio analysis
 
 I completed my **PhD at the Neuroscience Center Zurich** (University of Zurich & ETH Zurich). My thesis, *Advancing Neurofeedback in Tinnitus*, focused on real-time M/EEG signal processing and closed-loop neurofeedback. I also work with MRI-based structural and functional connectivity.
 
-I care about well-engineered, open research software. I'm a maintainer of [MNE-Python](https://mne.tools) and the author of [MNE-RT](https://mne-rt-org.github.io/mne-rt/).
+I care about well-engineered, open research software. I'm a maintainer of [MNE-Python](https://mne.tools) and the core developer of [MNE-RT](https://mne-rt-org.github.io/mne-rt/) and [MOSAIC](https://github.com/fcbg-platforms/mosaic).
 
 <figure class="video-figure">
   <video class="video-embed" autoplay muted loop playsinline>

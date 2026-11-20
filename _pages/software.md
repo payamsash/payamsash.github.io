@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p class="page__lead">
-Software and tools I've built or maintained for neuroscience research —
+Software and tools I've built or maintained for neuroscience research:
 neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
 </p>
 
@@ -27,11 +27,6 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
         feature combination, OSC and LSL output, BIDS-compatible session saving, and a
         comprehensive command-line interface.
       </p>
-      <div class="tags">
-        <span class="tag">M/EEG</span>
-        <span class="tag">Neurofeedback</span>
-        <span class="tag">Real-time BCI</span>
-      </div>
     </div>
   </div>
 
@@ -48,12 +43,6 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
         necessary. It comes with a single-GUI operator interface, a separate full-screen participant
         display, and a real-time neurofeedback visualisation engine.
       </p>
-      <div class="tags">
-        <span class="tag">EEG</span>
-        <span class="tag">Tinnitus</span>
-        <span class="tag">Adaptive protocol</span>
-        <span class="tag">Normative modeling</span>
-      </div>
     </div>
   </div>
 
@@ -68,11 +57,6 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
         GigE cameras, with live pose/gaze preview, post-recording analysis, and Lab Streaming Layer
         (LSL) integration for syncing with external systems such as EEG.
       </p>
-      <div class="tags">
-        <span class="tag">Multi-camera</span>
-        <span class="tag">Pose/gaze tracking</span>
-        <span class="tag">LSL</span>
-      </div>
     </div>
   </div>
 
@@ -88,10 +72,6 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
         maintainer team, I contribute to core maintenance, code reviews, bug fixes, and feature
         development across the MNE ecosystem.
       </p>
-      <div class="tags">
-        <span class="tag">M/EEG data analysis</span>
-        <span class="tag">Open source</span>
-      </div>
     </div>
   </div>
 

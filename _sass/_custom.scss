@@ -404,17 +404,6 @@ html[data-theme="dark"] .theme-toggle {
   vertical-align: middle;
 }
 
-.tags { display: flex; flex-wrap: wrap; gap: 0.4em; }
-
-.tag {
-  display: inline-block;
-  font-size: 0.75rem;
-  line-height: 1.6;
-  color: var(--accent);
-  background: var(--accent-bg);
-  border-radius: 999px;
-  padding: 0.1em 0.7em;
-}
 
 /* Footer ----------------------------------------------------------------- */
 

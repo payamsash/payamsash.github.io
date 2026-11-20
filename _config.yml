@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Payam S. Shabestari"
 title_separator          : "-"
 name                     : &name "Payam S. Shabestari"
-description              : &description "Software engineer at Fondation Campus Biotech Geneva (FCBG). PhD in neuroscience from UZH & ETH Zurich, working on M/EEG signal processing, neurofeedback and open-source research software."
+description              : &description "Research software engineer at Fondation Campus Biotech Geneva (FCBG). PhD in neuroscience from UZH & ETH Zurich, working on M/EEG signal processing, neurofeedback and open-source research software."
 url                      : https://payamsash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "payamsash/payamsash.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Payam S. Shabestari"
   avatar           : "profile.png"
-  bio              : "Software Engineer at FCBG · PhD in Neuroscience (UZH & ETH Zurich)"
+  bio              : "Research Software Engineer at FCBG · PhD in Neuroscience (UZH & ETH Zurich)"
   location         : "Zurich & Geneva"
   employer         : "Campus Biotech Geneva"
   pubmed           :

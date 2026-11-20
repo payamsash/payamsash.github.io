@@ -1,9 +1,9 @@
 # payamsash.github.io
 
-Personal website of Payam S. Shabestari — https://payamsash.github.io
+Personal website of Payam S. Shabestari: https://payamsash.github.io
 
 Built with Jekyll on the [AcademicPages](https://github.com/academicpages/academicpages.github.io) theme
-(a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), MIT licensed — see `LICENSE`).
+(a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), MIT licensed, see `LICENSE`).
 GitHub Pages builds and publishes the site automatically on every push to `master`.
 
 ## Where things live
