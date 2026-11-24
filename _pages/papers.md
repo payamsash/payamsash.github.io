@@ -12,6 +12,14 @@ author_profile: true
 <h2>2026</h2>
 
 <div class="pub">
+  <a class="pub__title" href="https://www.medrxiv.org/content/10.64898/2026.11.20.26368561v1">Frontoparietal Hyperconnectivity as a Single-Subject Neural Signature of Chronic Tinnitus</a>
+  <div class="pub__authors"><b>Payam S Shabestari</b>, Shagun Ajmera, Elva Arulchelvan, … , Christopher R Cederroth, Patrick Neff</div>
+  <div class="pub__venue">medRxiv
+    <span class="pub__links"><a href="https://www.medrxiv.org/content/10.64898/2026.11.20.26368561v1">Preprint</a><a href="https://doi.org/10.64898/2026.11.20.26368561">DOI</a></span>
+  </div>
+</div>
+
+<div class="pub">
   <a class="pub__title" href="https://www.medrxiv.org/content/10.64898/2026.11.11.26367707v1">Impaired cortical gap-mediated inhibition in chronic tinnitus but with limited individual diagnostic accuracy</a>
   <div class="pub__authors">Hongyu Lu, <b>Payam S Shabestari</b>, Milena Engelke, … , Patrick KA Neff, Christopher R Cederroth</div>
   <div class="pub__venue">medRxiv
