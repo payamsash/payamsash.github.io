@@ -31,17 +31,16 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
   </div>
 
   <div class="project">
-    <a class="project__logo" href="https://github.com/payamsash/antares">
-      <img src="/images/antares.png" alt="ANTARES logo">
+    <a class="project__logo" href="https://mne.tools">
+      <img src="/images/logo_hex.svg" alt="MNE-Python logo">
     </a>
     <div class="project__body">
-      <h3 class="project__title"><a href="https://github.com/payamsash/antares">ANTARES</a></h3>
+      <h3 class="project__title"><a href="https://mne.tools">MNE-Python</a> <span class="project__role">Maintainer</span></h3>
       <p>
-        A closed-loop EEG neurofeedback system developed for tinnitus research. It runs an adaptive
-        multi-session protocol that automatically selects the most informative EEG feature for each
-        participant, monitors feature quality across sessions, and adjusts the training target when
-        necessary. It comes with a single-GUI operator interface, a separate full-screen participant
-        display, and a real-time neurofeedback visualisation engine.
+        An open-source Python package for exploring, visualizing, and analyzing human
+        neurophysiological data (MEG, EEG, sEEG, ECoG, fNIRS, and more). As a member of the
+        maintainer team, I contribute to core maintenance, code reviews, bug fixes, and feature
+        development across the MNE ecosystem.
       </p>
     </div>
   </div>
@@ -61,16 +60,17 @@ neurofeedback, real-time BCI, multi-modal recording, and connectivity analysis.
   </div>
 
   <div class="project">
-    <a class="project__logo" href="https://mne.tools">
-      <img src="/images/logo_hex.svg" alt="MNE-Python logo">
+    <a class="project__logo" href="https://github.com/payamsash/antares">
+      <img src="/images/antares.png" alt="ANTARES logo">
     </a>
     <div class="project__body">
-      <h3 class="project__title"><a href="https://mne.tools">MNE-Python</a> <span class="project__role">Maintainer</span></h3>
+      <h3 class="project__title"><a href="https://github.com/payamsash/antares">ANTARES</a></h3>
       <p>
-        An open-source Python package for exploring, visualizing, and analyzing human
-        neurophysiological data (MEG, EEG, sEEG, ECoG, fNIRS, and more). As a member of the
-        maintainer team, I contribute to core maintenance, code reviews, bug fixes, and feature
-        development across the MNE ecosystem.
+        A closed-loop EEG neurofeedback system developed for tinnitus research. It runs an adaptive
+        multi-session protocol that automatically selects the most informative EEG feature for each
+        participant, monitors feature quality across sessions, and adjusts the training target when
+        necessary. It comes with a single-GUI operator interface, a separate full-screen participant
+        display, and a real-time neurofeedback visualisation engine.
       </p>
     </div>
   </div>
